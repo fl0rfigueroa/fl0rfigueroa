@@ -1,4 +1,11 @@
-# 👋 Hola, soy Florencia Figueroa (@fl0rfigueroa)
+# 👋 Hola, soy Florencia Figueroa 
+
+![QA Automation](https://img.shields.io/badge/QA%20Automation-%23FF69B4?style=for-the-badge)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=microsoft-playwright&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Make](https://img.shields.io/badge/Make%20(Integromat)-2B2BFF?style=for-the-badge&logo=make&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 🎯 **QA Tester** con foco en **automatización de pruebas y procesos** | Estudiante de **Análisis de Sistemas**  
 💻 Apasionada por la **calidad del software**, la **eficiencia en los procesos** y el aprendizaje constante.
@@ -38,3 +45,9 @@
 💾 *SQL* · *MySQL* · *Oracle*  
 📊 *Excel (Power Query, Tablas Dinámicas)*  
 🖥️ *HTML* ·
+
+### 📫 Cómo contactarme
+📍 Buenos Aires, Argentina  
+📧 [figueroaflorenciaf@gmail.com](mailto:figueroalflorencia@gmail.com)  
+💼 [LinkedIn](https://linkedin.com/in/florencia-lourdes-figueroa)  
+🐙 [GitHub](https://github.com/fl0rfigueroa)
