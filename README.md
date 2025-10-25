@@ -48,6 +48,6 @@
 
 ### 📫 Cómo contactarme
 📍 Buenos Aires, Argentina  
-📧 [figueroaflorenciaf@gmail.com](mailto:figueroalflorencia@gmail.com)  
+📧 [figueroalflorencia@gmail.com](mailto:figueroalflorencia@gmail.com)  
 💼 [LinkedIn](https://linkedin.com/in/florencia-lourdes-figueroa)  
 🐙 [GitHub](https://github.com/fl0rfigueroa)
